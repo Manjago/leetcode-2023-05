@@ -10,3 +10,4 @@
 | [2023-05-03](src/LeetCode02215.java)                  | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)                                             |
 | [2023-05-04](src/LeetCode00649.java)                  | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/)                                                                                        |
 | [2023-05-05](src/LeetCode01456.java)                  | [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) |
+| [2023-05-05](src/LeetCode00740.java)                  | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)                                                                                  |
