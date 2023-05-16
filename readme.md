@@ -16,3 +16,5 @@
 | [2023-05-09](src/LeetCode00054.java)                  | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                                              |
 | [2023-05-10](src/LeetCode00059.java)                  | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                                                                                        |
 | [2023-05-11](src/LeetCode01035.java)                  | [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)                                                                                        |
+| [2023-05-16](src/LeetCode01721.java)                  | [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)                                                        |
+| [2023-05-16](src/LeetCode00024.java)                  | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)                                                                                   |
