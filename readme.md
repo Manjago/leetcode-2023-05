@@ -19,3 +19,4 @@
 | [2023-05-16](src/LeetCode01721.java)                  | [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)                                                        |
 | [2023-05-16](src/LeetCode00024.java)                  | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)                                                                                   |
 | [2023-05-17](src/LeetCode02130.java)                  | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list)                                                     |
+| [2023-05-17](src/LeetCode01557.java)                  | [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)                            |
